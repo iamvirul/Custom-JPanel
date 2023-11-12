@@ -42,7 +42,7 @@ JPanelLib is a user-friendly and versatile library designed to streamline the de
 ###### Step one : 5
 
 - Then click next and select the lib name from that window
-![App screenshot](https://lh3.googleusercontent.com/pw/ADCreHdgXwT6VP6okIyL3vj29xBc1qdAMEp6gKe7N2Eis4vxlIrYli-UyUSkO3vH_QDHT_7W5DmkgHj5YpBrmX3QVtn2FW7iDcP8gS8Y3Wx6WFXS9q2lOKZ3m5GOEwyvGk_5sjecieS42Wd9A7ekEzTSIoFTwCZGY_oYmpW7sNf5DUGSGXT0VN0xx0XiI1DHkWKkVOaVnvd9xkkoJTz1piplncnlr-nsGylshyDh_UhK7Mz8WUs5w-lnghDV29Nxi30mj2hzc_ANKzcXu2PNFDRn9bAaQluhS-FPfby_tqFk-6pbaer8vG-ZXdR2xnQU9SGeRYrdaf89OlwJQ6ux4XMq0_5sBKqhGTIBJNVNASbUzZiiRdQa-3iI_Nu2fpLqkp9t-Apjvx0s8Vg3-aeZhLP-oeDLqZc9yr5DozeafEUvT30lM4f8OKXHDO2eX0EmNeEOVMAM1NFfxvuXSfpH6nMAYpYwSLRdWywtE2k1mxQray2JcOJ0xpkn6TCLrnk-GH7j6UMMLG75S7t2s3MAvc-6YWkkGWgfBAdBbwaWitYYqbHcizZGtIW5LAmfijCLShEUvxqT17UgnNvxO5obiFCdUNBKfuZFPWvznu5_9NtDWLkrWZ1nrBQDdBt0colu-UM5A6TdxoGonn_K-Qb0Yq1Swj-E9Ip23c_rRRmMEGSQYDPQUaVLAkz4bGsPDLDZDJ2PVpzHucL8Ee2hSN8nhE6j9x_Xaetr7qHbD1Xu3m3grXIe2ncKY_WLAsivRsAVPC0K1h_wB0iY9YPBLxERpfXTWqEDBz_s0UC1KXrS8e8HqlYRLgeUIpkCmGjOCF_N7fYOqFKPjqZd7iZXP24tTqgDCzcLPuVulfI-zGqW2Se4mwcsF4gQQtHKiKN3-7vJS0NpbpnKY_yTg8-jmpmCVQTL_C378NA=w833-h593-s-no-gm?authuser=0)
+[![Screenshot-2023-11-12-at-12-07-03.png](https://i.postimg.cc/6QbP4Xd9/Screenshot-2023-11-12-at-12-07-03.png)](https://postimg.cc/p98C33G7)
 
 ###### Step one : 6
 
