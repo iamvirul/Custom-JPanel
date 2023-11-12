@@ -27,7 +27,7 @@ JPanelLib is a user-friendly and versatile library designed to streamline the de
 
 - open netbeans and go to tools > palette > Swing/AWT components
 
-![App Screenshot](https://lh3.googleusercontent.com/pw/ADCreHfg-9qr883reexpPpIOK1-3RzmsUKChPaZXJUKqDpEkHIoGufiPlVKLwbZQ68JBr3BDCZcyndZbTlO2GioidH-E9xBNal_6eZEh90IaQTbmgyDXThbYxdaYGkg2C5Pp4tV1rFG3bRV7iLQxJloChFJF83kkgFuLaw6gGWjXNY_SiIvnvXId7LE-WdpfvsEv5nQUEa8MXoEnQjAZsLr9umG-6F0VNtCNSSURkbPYIeAxZW90Yq8tvzGP6luS1IKx1y7zj6qYYw2IRVevOnx60l6Rmwbqw6UXY-9Z5P-L8V5gs2U_6TB_Yui3meErZiiaYsdIQgxoX8VXhw01rdBz04rjJK7eBfee-nXggeN7OU94aalT7BmoB_7GFcfUkOrP22_rB_y4ZawLD61FYdzcnHir3hR9rySXKjXluafhV_hCytiH7fFrAO5g9NxTFVlKN3D8lETeTGZE8jmWvf7H_OyK1r3hrmVsyCzefBsQP0yNLzLoGssBB-9D6VcyqTlom7t-WB45K9RbeoqqF70jtrWTZjWHV4cli2TPiWYB4jdQkei66adF62SebVWo8xzL3cfCxE-OmCX7w2t8nUg_A_O_614ky478aZ2wU1nIbrrXa2sMW0jkXvhu57znDmFYfdaLkLblcfjJsjAgMsB36rd5b1_6PDiSKBL_VXbjLalC8oJYh7083iZ_YSsSZycS4wlfonyKb5aWwdFTDCrknV26TZ_UotbxD4JciK5WQaE85lkJiIHwqSDhyucMtaKqu5V9UGlnRX4cRgiLepihAKoa20C0wJMmt7HRow794yR47mCyzIDVju3ka4rRGbNRNlkC6wHumZJyKKGvRwe34FVM5Es5br1D5NcTvT4g7VZ2t2RaE9gImMDIstzURAdXwb3-nqX5hBdr5yb9_sITji9fZnI=w430-h320-s-no-gm?authuser=0)
+[![Screenshot-2023-11-12-at-11-15-44.png](https://i.postimg.cc/zf2CFDtc/Screenshot-2023-11-12-at-11-15-44.png)](https://postimg.cc/94TwW2jd)
 
 ###### Step one : 3
 
