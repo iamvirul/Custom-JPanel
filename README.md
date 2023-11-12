@@ -48,7 +48,8 @@ JPanelLib is a user-friendly and versatile library designed to streamline the de
 
 - Next select the Category you want to add this custom jPanel
 
-![App screenshot](https://lh3.googleusercontent.com/pw/ADCreHfSGatFIoj1LN_FgWUMSlkBGrgfBesw5rvIVvqg2oQQO9fMlNyT82KCl4OWu46L185zsL-wgIOm5BGlg1K0Y8UYXDsqVLQ32j3LMp7aHI-pXRR1DK1-PS28nJHBbv3c2gGpsh0wz8c9DzFP0PbBGBU6UBJdRLGnd50Dev3l9gKS3iDVAh5iw-Ie2OkAMX3kI_5HXX7HtRovDrWLUcGlQAuXz2pooS2SaGGWFKpMOmt1aWHAR0OKnLSH_KPSLyLLrTeztaHV7JIaHFbTiGvLf4MkglwZRs389U03quX5wkVn-nzWm_vyXP7AmWD0AodQzkVwNXoNUvmncWfkWXqU4ZqbdcIGDOnw49K9x6hBWKulePQx4JCQ3z6nMWmDRLphL5D4RhzH2Q_jrZvjp8BJI8fWpybTC0ZzWb3s0JZe2Y8vZdjNYhQpkWef9Dx8Mf_Vhdx_F4i5vntoWoae4Hrae4offwWM0NsUXurb2aPP78sevKbYKDlN_NugnTRMU8BbFD-Ktdo7HN_KVAs8hNOAuma3AcRx6fLgsKyGwV7ivmzyRs1hse4GFiE2u1H8tk8XL-KkWpzLShE1u7fZBtMbXLwqHNbtrNQWFjdAkooDWMXFynONhrS-OVVok503zFn1MJ_qzB4ahhxxpMrAmb-dKANpYS1BA6mVR45pcan7-IzhGmZmYpH-yDq7wlJeZ0LXPx0_5RCjPn0Vj9yE3Y0Vbw2l645HWOb-98bwlNiBkNijYcHgF5HLrWv8K4qVEEQUk-NStiH1q1chliqQ0mfzgTZxyQiBrlI8irYsj5j-7z0M12pHLLSpAJUIqmo5K77faKtOC8XEWFt7B427Pq_Q194u4ch0R-jANATZqwBqhQGJceDR6AsPxMAwz1iE9c5WuAefpj1LOYH5cKG-6v1-vccwV1Q=w833-h593-s-no-gm?authuser=0)
+[![Screenshot-2023-11-12-at-12-09-11.png](https://i.postimg.cc/PJWKys8v/Screenshot-2023-11-12-at-12-09-11.png)](https://postimg.cc/vxmW8KhG)
+
 ##  About Me
 I am an enthusiastic and passionate full-stack developer with a thirst for knowledge and a knack for problem-solving. Since embarking on my self-learning journey in 2018, I have honed my skills in a wide range of programming languages and technologies, including Java, Python, Node.js, HTML, CSS, JavaScript, React, Angular, MySQL, and MongoDB. My expertise lies in crafting both front-end and back-end applications, ensuring seamless user experiences and robust system architectures.
 
